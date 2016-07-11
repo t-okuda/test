@@ -3,7 +3,7 @@
 - キックインストールより
 - > Dedicated Server > CentOS > CentOS7
   - Partition Installメニューを選択
-  -- パーティション設定
+  - パーティション設定
   --- - biosboot 1M
   --- /boot 100M
   --- /     20GB

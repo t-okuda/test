@@ -4,6 +4,8 @@
 - > Dedicated Server > CentOS > CentOS7
   - Partition Installメニューを選択
   - パーティション設定
+
+
   |パーティション|容量|  
   |biosboot|1M|
   |/boot|100M | 
